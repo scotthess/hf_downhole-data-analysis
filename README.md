@@ -1,2 +1,2 @@
 # well-data-analysis
-function for analyzing well data 
+Functions for analyzing well data 
