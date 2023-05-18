@@ -1,2 +1,2 @@
-# well-data-analysis
-Functions for analyzing well data 
+# hf_downhole-data-analysis
+Functions for high frequency downhole data 
